@@ -1,0 +1,11 @@
+{
+    "include": [
+      "**/*.js",
+      "node_modules/cypress"
+    ],
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "allowSyntheticDefaultImports": true
+    }
+  }
